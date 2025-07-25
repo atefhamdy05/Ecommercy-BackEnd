@@ -1,0 +1,16 @@
+_pycache_/*
+*.py[cod]
+*$py.class
+*.pyc
+*.pyo
+*.pyd
+.env
+.env*
+media/*
+venv/
+media
+*.csv
+sqlite
+db.sqlite3
+logs/*
+static/
